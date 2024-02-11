@@ -1,1 +1,1 @@
-# gucdagitimkarti
+AURA AUV takımımızın güç dağıtım kartı ve batarya kartının şematik ve altium çizimleri ktr raporu geçtikten sonra paylaşılacaktır. Paylaşılan görseller yapılan kartların baskı alınmış halini temsil etmemektedir sadece ana hatlarıyla göstermektedir. Yarışmadan sonra tüm detayları ile kartın her bir dosyası paylaşılacaktır.
